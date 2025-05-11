@@ -49,17 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshilKhan09&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" alt="GitHub Streak"/>
- 
----
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a><a href="https://ko-fi.com/buy me a coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
 
 
 
