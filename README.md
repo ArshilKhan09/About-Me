@@ -54,5 +54,5 @@
 
 ### 📫 Let's Build Together!
 
-> *"Consistency and curiosity are my superpowers!"*
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
