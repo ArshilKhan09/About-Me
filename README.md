@@ -58,5 +58,5 @@
 
 ### 📫 Let's Build Together!
 
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h3> “You learn more from failure than from success. Don’t let it stop you.” – Unknown </h3>
 
