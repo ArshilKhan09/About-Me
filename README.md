@@ -58,5 +58,5 @@
 
 ### 📫 Let's Build Together!
 
-<h3> “You learn more from failure than from success. Don’t let it stop you.” – Unknown </h3>
+<h3> “You learn more from failure than from success. Don’t let it stop you.”</h3>
 
