@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm ARSHIL KHAN</h1>
-<h3 align="center">Aspiring Software Engineer | BSc CS Student | Tech Enthusiast</h3>
+<h3 align="center">Aspiring Devops Engineer | BSc CS Student | Tech Enthusiast</h3>
 
 ---
 ---
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a B.Sc. Computer Science student (2nd Year)
-- 🧠 Goal: Become a proficient **Software Engineer** 
+- 🧠 Goal: Become a proficient **Devops Engineer** 
 - 📫 Reach me at: `arshilkhan529@gmail.com`
 ---
 ---
@@ -28,18 +28,12 @@
 ### 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
@@ -60,3 +54,90 @@
 
 <h3> “You learn more from failure than from success. Don’t let it stop you.”</h3>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Hi, I'm Arshil Khan
+
+### Aspiring DevOps Engineer
+
+## 🚀 About Me
+BSc Computer Science student passionate about Cloud and DevOps. Focused on learning modern deployment, automation, and infrastructure tools with hands-on projects.
+
+---
+
+## 🛠 Tech Stack
+
+| Tool / Technology | Status |
+|-------------------|--------|
+| AWS | Learning |
+| Git & GitHub | Practical experience |
+| Python | Beginner/Intermediate |
+| Linux | Command-line & fundamentals |
+| Docker | Exploring containers |
+| Kubernetes | Learning orchestration |
+| CI/CD Pipelines | Basic understanding |
+
+---
+
+## 📫 Connect with me
+**LinkedIn:** www.linkedin.com/in/arshilkhanofficial
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshilKhan09&show_icons=true&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshilKhan09&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+## 🎯 Current Focus
+- Learning DevOps roadmap step by step
+- Building real deployment based projects
+- Cloud and infrastructure automation basics
+
+---
+
+## 📌 Upcoming Projects
+- Dockerized Python app
+- Kubernetes deployment project
+- CI/CD pipeline with GitHub Actions
+- AWS cloud project (EC2 + S3 + VPC)
+
+---
+
+⭐ **Feel free to connect and collaborate!**
