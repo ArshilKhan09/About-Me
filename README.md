@@ -32,7 +32,7 @@
 ---
 
 ## 🎯 Current Focus
-- Learning DevOps 
+- Exploring DevOps and Cloud 
 - Building real deployment based projects
 - Cloud and infrastructure automation basics
 
