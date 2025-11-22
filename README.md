@@ -1,6 +1,13 @@
-# Hi, I'm Arshil Khan
+<div align="center">
+
+
+# Hi, I'm **Arshil Khan**
+
 
 ### Aspiring DevOps Engineer | Passionate about Cloud, Automation and Infrastructure
+
+
+</div>
 
 ## 👨‍💻 About Me
 Motivated BSc Computer Science student focused on building skills in automation, cloud and containerization. Actively learning and working on projects that involve deploying applications, designing CI/CD workflows, and managing cloud infrastructure.
@@ -10,12 +17,14 @@ Motivated BSc Computer Science student focused on building skills in automation,
 ## 🛠 Skills & Technologies
 
 ### DevOps & Cloud
-- AWS (EC2, S3, IAM, VPC Basics)
-- Docker (Containerization)
-- Kubernetes (Orchestration)
-- CI/CD Pipelines (GitHub Actions, Jenkins Basics)
+- AWS (EC2, S3, IAM )
+- Docker 
+- Kubernetes 
+- CI/CD Pipelines (Jenkins Basics)
+- Terraform
+- Ansible
 - Git & GitHub
-- Linux (Command line, Bash)
+- Linux 
 
 ### Programming & Tools
 - Python 
