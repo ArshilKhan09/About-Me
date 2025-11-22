@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Connect with me
-**LinkedIn:** www.linkedin.com/in/arshilkhanofficial
+**LinkedIn:** www.linkedin.com/in/arshilkhanofficial<br>
 **Gmail:** arshilkhan529@gmail.com
 ---
 
