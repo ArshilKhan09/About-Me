@@ -5,7 +5,7 @@
 ---
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a B.Sc. Computer Science student (2nd Year)
+- 🎓 I'm a B.Sc. Computer Science student (Last Year)
 - 🧠 Goal: Become a proficient **Devops Engineer** 
 - 📫 Reach me at: `arshilkhan529@gmail.com`
 ---
