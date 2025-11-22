@@ -1,53 +1,54 @@
-<h1 align="center">Hi 👋, I'm ARSHIL KHAN</h1>
-<h3 align="center">Aspiring Devops Engineer | BSc CS Student | Tech Enthusiast</h3>
+# Hi, I'm Arshil Khan
 
----
----
-### 🧑‍💻 About Me
+### Aspiring DevOps Engineer | Passionate about Cloud, Automation and Infrastructure
 
-- 🎓 I'm a B.Sc. Computer Science student (Last Year)
-- 🧠 Goal: Become a proficient **Devops Engineer** 
-- 📫 Reach me at: `arshilkhan529@gmail.com`
----
+## 👨‍💻 About Me
+Motivated BSc Computer Science student focused on building skills in automation, cloud and containerization. Actively learning and working on projects that involve deploying applications, designing CI/CD workflows, and managing cloud infrastructure.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills & Technologies
 
-| Tool / Technology | Status |
-|-------------------|--------|
-| AWS | Learning |
-| Git & GitHub | Practical experience |
-| Python | Beginner/Intermediate |
-| Linux | Command-line & fundamentals |
-| Docker | Exploring containers |
-| Kubernetes | Learning orchestration |
-| CI/CD Pipelines | Basic understanding |
+### DevOps & Cloud
+- AWS (EC2, S3, IAM, VPC Basics)
+- Docker (Containerization)
+- Kubernetes (Orchestration)
+- CI/CD Pipelines (GitHub Actions, Jenkins Basics)
+- Git & GitHub
+- Linux (Command line, Bash)
 
----
-
-## 📫 Connect with me
-**LinkedIn:** www.linkedin.com/in/arshilkhanofficial<br>
-**Gmail:** arshilkhan529@gmail.com
----
-
-## 🎯 Current Focus
-- Exploring DevOps and Cloud 
-- Building real deployment based projects
-- Cloud and infrastructure automation basics
-
+### Programming & Tools
+- Python 
+- Networking 
+- Java
+- WEB (Basic)
+- SDLC
 ---
 
 ## 📌 Upcoming Projects
-- Dockerized Python app
-- Kubernetes deployment project
-- CI/CD pipeline with GitHub Actions
-- AWS cloud project (EC2 + S3 + VPC)
+> Projects that demonstrate practical DevOps and cloud skills
+
+| Project | Description | Tools |
+|--------|-------------|--------|
+| Dockerized Python Web App | Containerized a sample web application with Docker and deployed locally | Docker, GitHub |
+| Kubernetes Deployment Project | Deploying a sample service with pods, services and ingress | Kubernetes, Docker |
+| CI/CD Pipeline Automation | Automating build and deployment pipeline | GitHub Actions, Docker |
+| AWS Cloud Hosting Project | Hosting a web app on EC2 with S3 storage and IAM roles | AWS, Linux |
+
+> More detailed project repositories coming soon
 
 ---
 
-### 📫 Let's Build Together!
+## 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/arshilkhanofficial)
 
-<h3> “You learn more from failure than from success. Don’t let it stop you.”</h3>
+---
 
-⭐ **Feel free to connect and collaborate!**
+## 🎯 Current Focus
+- DevOps and Cloud skills improvement
+- Building real deployment projects
+- Mastering automation workflows
+
+---
+
+⭐ Always open to collaboration and opportunities to grow.
