@@ -4,7 +4,7 @@
 # Hi, I'm **Arshil Khan**
 
 
-### Aspiring DevOps Engineer | Passionate about Cloud, Automation and Infrastructure
+### Aspiring Software Engineer | Passionate about Cloud, Automation and Infrastructure
 
 
 </div>
