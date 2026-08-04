@@ -124,7 +124,7 @@ Aspiring Software Development Engineer (SDE) | Java Backend Developer | AI Integ
 
 💼 LinkedIn: https://linkedin.com/in/arshilkhanofficial
 
-💻 LeetCode: https://leetcode.com/arshil09
+💻 LeetCode: https://leetcode.com/arshilkhann
 
 📧 Email: arshilkhan529@gmail.com
 
