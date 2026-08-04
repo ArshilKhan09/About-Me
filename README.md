@@ -1,63 +1,133 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Arshil Khan</h1>
 
-
-# Hi, I'm **Arshil Khan**
-
-
-### Aspiring Software Engineer | Passionate about Cloud, Automation and Infrastructure
-
-
-</div>
-
-## 👨‍💻 About Me
-Motivated BSc Computer Science student focused on building skills in automation, cloud and containerization. Actively learning and working on projects that involve deploying applications, designing CI/CD workflows, and managing cloud infrastructure.
+<h3 align="center">
+Aspiring Software Development Engineer (SDE) | Java Backend Developer | AI Integration Enthusiast
+</h3>
 
 ---
 
-## 🛠 Skills & Technologies
+## 🚀 About Me
 
-### DevOps & Cloud
-- AWS (EC2, S3, IAM )
-- Docker 
-- Kubernetes 
-- CI/CD Pipelines (Jenkins Basics)
-- Terraform
-- Ansible
-- Git & GitHub
-- Linux 
+🎓 Computer Science Graduate from Savitribai Phule Pune University (SPPU)
 
-### Programming & Tools
-- Python 
-- Networking 
+💻 Currently learning **Java Backend Development** with **Spring Boot** while strengthening my **Data Structures & Algorithms** skills.
+
+🤖 Exploring **AI Integration** with backend applications using modern LLM technologies.
+
+🎯 My goal is to build scalable, production-ready backend systems and become a Software Development Engineer.
+
+---
+
+## 🌱 Currently Learning
+
 - Java
-- WEB (Basic)
-- SDLC
+- Object-Oriented Programming
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- Spring Data JPA & Hibernate
+- Spring Security & JWT
+- Docker
+- Microservices
+- AWS
+- AI Integration
+- Retrieval-Augmented Generation (RAG)
+- Data Structures & Algorithms
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- SQL
+- Python
+- HTML
+- CSS
+
+### Backend
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- REST APIs
+
+### Database
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- Maven
+- Docker
+- IntelliJ IDEA
+- VS Code
+- Postman
+
+### Currently Exploring
+- Spring Security
+- JWT Authentication
+- Microservices
+- AWS
+- Spring AI
+- Vector Databases
+- LLM APIs
+
+---
+
+## 📂 Current Focus
+
+✔ Building Backend Projects
+
+✔ Solving LeetCode Problems
+
+✔ Learning System Design Fundamentals
+
+✔ Integrating AI into Java Applications
+
+✔ Writing Clean and Maintainable Code
+
 ---
 
 ## 📌 Upcoming Projects
-> Projects that demonstrate practical DevOps and cloud skills
 
-| Project | Description | Tools |
-|--------|-------------|--------|
-| Dockerized Python Web App | Containerized a sample web application with Docker and deployed locally | Docker, GitHub |
-| Kubernetes Deployment Project | Deploying a sample service with pods, services and ingress | Kubernetes, Docker |
-| CI/CD Pipeline Automation | Automating build and deployment pipeline | GitHub Actions, Docker |
-| AWS Cloud Hosting Project | Hosting a web app on EC2 with S3 storage and IAM roles | AWS, Linux |
+📚 Library Management System
 
-> More detailed project repositories coming soon
+🎓 Student Management API
+
+👨‍💼 Employee Management System
+
+🔐 Authentication Service
+
+🛒 E-Commerce Backend
+
+🍔 Food Delivery Microservices
+
+🤖 AI Resume Analyzer
+
+💬 AI Chatbot with RAG
+
+---
+
+## 📈 GitHub Goals
+
+- Build production-ready backend applications
+- Maintain clean and well-documented repositories
+- Solve 300+ LeetCode problems
+- Learn modern backend architecture
+- Contribute to Open Source
 
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/arshilkhanofficial)
+
+💼 LinkedIn: https://linkedin.com/in/arshilkhanofficial
+
+💻 LeetCode: https://leetcode.com/arshil09
+
+📧 Email: arshilkhan529@gmail.com
 
 ---
 
-## 🎯 Current Focus
-- DevOps and Cloud skills improvement
-- Building real deployment projects
-- Mastering automation workflows
-
----
-
-⭐ Always open to collaboration and opportunities to grow.
+⭐ *"Learning consistently. Building practical software. Improving one project at a time."*
